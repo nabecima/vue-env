@@ -1,7 +1,7 @@
 # Usage
 Vueの環境をクローン
 ```
-git clone git@github.com:mentor-nabeshima/env_rails5.git <app_name>
+git clone git@github.com:nabecima/vue-env.git <app_name>
 cd <app_name>
 ```
 
