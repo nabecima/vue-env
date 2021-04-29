@@ -7,7 +7,7 @@ cd <app_name>
 
 プロジェクトの作成
 ```
-docker-compose run front vue create .
+docker-compose run --rm front vue create .
 ```
 
 サーバーの起動
