@@ -14,3 +14,5 @@ docker-compose run --rm front vue create .
 ```
 docker-compose up
 ```
+
+`localhost:8080`にて確認可能
